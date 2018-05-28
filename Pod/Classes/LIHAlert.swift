@@ -272,7 +272,7 @@ import UIKit
     
     
     //private variables
-    fileprivate var navBarHeight: CGFloat = 44.0 + 20.0
+    fileprivate var navBarHeight: CGFloat = 0.0
     fileprivate var viewMain: UIView?
     fileprivate var imgViewIcon: UIImageView?
     fileprivate var lblContentText: UILabel?
